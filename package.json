@@ -1,0 +1,14 @@
+{
+  "name": "cypress_esttudo",
+  "version": "1.0.0",
+  "description": "Estudo Cypress preparação ambiente e pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxwell Viana QA",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3"
+  }
+}

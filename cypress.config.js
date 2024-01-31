@@ -1,7 +1,7 @@
 const { defineConfig } = require("cypress");
 const moment = require('moment');
 
-const dateTime = moment().format('YYYY-MM-DD_HH-mm-ss');
+const dateTime = moment().format('DD-MM-YYYY_HH-mm-ss');
 
 module.exports = defineConfig({
   e2e: {
